@@ -1,0 +1,4 @@
+[12-Jun-2018 17:36:24 UTC] PHP Notice:  Undefined index: view in /home2/ryivkjsm/public_html/cad/main.php on line 209
+[12-Jun-2018 17:45:26 UTC] PHP Notice:  Undefined index: UserID in /home2/ryivkjsm/public_html/cad/backend.php on line 105
+[12-Jun-2018 17:45:26 UTC] PHP Notice:  Undefined index: UserID in /home2/ryivkjsm/public_html/cad/main.php on line 153
+[12-Jun-2018 17:45:26 UTC] PHP Notice:  Undefined index: view in /home2/ryivkjsm/public_html/cad/main.php on line 209
